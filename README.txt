@@ -1,11 +1,9 @@
 ﻿Text-Raffle
 =====================
 
-Originally made for my college department in Lyceum of the Philippines University Batangas 
-(College of Computer Studies). This was an idea of one of my professors - Janice Velasquez.
+Originally made for my college department in Lyceum of the Philippines University Batangas (College of Computer Studies). This was an idea of one of my professors - Janice Velasquez.
 
-This simple application loads a text file of raffle entries line by line, and randomizes
-the entries with the help of timers.
+This simple application loads a text file of raffle entries line by line, and randomizes the entries with the help of timers.
 
 Features
 ---------------------
