@@ -9,7 +9,7 @@ the entries with the help of timers.
 
 Features
 ---------------------
-    * Won list system
+	* Won list system
 	* Excludes won entries
 	* Capability to add and delete won entries manually
 	* Slow time effect after stopping the process
@@ -17,7 +17,7 @@ Features
 
 TODO
 ---------------------
-    * Widen scope of the application (suggestions and forks welcome)
+	* Widen scope of the application (suggestions and forks welcome)
 	* Add more functionality
 	* Optimize
 	* Find bugs
